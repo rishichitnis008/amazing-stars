@@ -5,13 +5,20 @@
 
 ## Contents
 
+- [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [frontend](#frontend)
 - [javascript](#javascript)
 - [library](#library)
+- [linux](#linux)
 - [markdown](#markdown)
 - [others](#others)
 - [react](#react)
+- [windows](#windows)
+
+## awesome 
+
+- [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 
 ## awesome-list 
 
@@ -29,18 +36,28 @@
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
+## linux 
+
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+
 ## markdown 
 
+- [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 
 ## others 
 
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [nhelchitnis/Hello-World](https://github.com/nhelchitnis/Hello-World) - 
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 
 ## react 
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## windows 
+
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 
 
 ## License
