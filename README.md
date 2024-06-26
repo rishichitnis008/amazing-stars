@@ -5,13 +5,19 @@
 
 ## Contents
 
-- [Ada](#ada)
+- [Assembly](#assembly)
+- [C](#c)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
+- [Python](#python)
 
-## Ada 
+## Assembly 
 
 - [nhelchitnis/Hello-World](https://github.com/nhelchitnis/Hello-World) - 
+
+## C 
+
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 
 ## JavaScript 
 
@@ -20,7 +26,12 @@
 
 ## Markdown 
 
+- [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
+
+## Python 
+
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 
 
 ## License
