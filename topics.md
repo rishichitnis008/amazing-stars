@@ -48,7 +48,6 @@
 ## others 
 
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
-- [nhelchitnis/Hello-World](https://github.com/nhelchitnis/Hello-World) - 
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 
 ## react 
