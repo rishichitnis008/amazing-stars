@@ -5,15 +5,10 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [C](#c)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Python](#python)
-
-## Assembly 
-
-- [nhelchitnis/Hello-World](https://github.com/nhelchitnis/Hello-World) - 
 
 ## C 
 
