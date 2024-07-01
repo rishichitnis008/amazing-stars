@@ -73,6 +73,7 @@
 
 ## others 
 
+- [nhelchitnis/github-profile-3d-contrib](https://github.com/nhelchitnis/github-profile-3d-contrib) - An example of the Github Profile 3D Contribution action
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
 - [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats) - Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :calendar:
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
